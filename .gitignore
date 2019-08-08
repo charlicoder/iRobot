@@ -1,7 +1,9 @@
 # compiled output
+letter.txt
 /dist
 /node_modules
-clientiRobotNg/node_modules
+clientNg/node_modules
+clientNg/dist
 # Logs
 logs
 *.log
